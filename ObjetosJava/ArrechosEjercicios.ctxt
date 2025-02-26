@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ArrechosEjercicios
+comment0.text=\r\na)\ Llenar\ el\ arreglo\r\nb)\ Imprimir\ todos\ los\ elementos\ del\ arreglo\r\nc)\ Imprimir\ los\ elementos\ que\ sean\ m\u00FAltiplos\ de\ 5\r\nd)\ Sumar\ todos\ los\ elementos\ del\ arreglo\r\ne)\ Imprimir\ el\ promedio\ de\ todos\ los\ elementos\ del\ arreglo\r\nf)\ Buscar\ e\ imprimir\ el\ mayor\ elemento\ del\ arreglo\r\n\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

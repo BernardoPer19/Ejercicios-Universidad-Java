@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Arrechos2
+comment0.text=\r\n\r\n//*1)\ Dado\ un\ arreglo\ de\ n\ caracteres\ (char),\ busque\ cu\u00E1ntas\ veces\ se\ repite\ el\ caracter\ k.\r\n//\!2)\ Ordene\ un\ arreglo\ de\ n\ caracteres\ usando\ el\ ordenamiento\ burbuja.\ (pag\ 141)\r\n//\!3)\ Ordene\ un\ arreglo\ de\ n\ n\u00FAmeros\ y\ luego\ busque\ el\ n\u00FAmero\ k.\r\n\r\n//\!4)\ Intercale\ dos\ arreglos\ de\ diferente\ tama\u00F1o\r\nA\ \=\ {2,\ 8,\ 14}\r\nB\ \=\ {\ 1,\ \ 5,\ 19,\ \ 25,\ \ 29}\r\ny\ el\ resultado\ deber\u00EDa\ ser\:\r\nC\ \=\ {2,\ 1,\ 8,\ 5,\ 14,\ 19,\ 25,\ 29}\r\n\r\n//\!5)\ Dados\ 2\ arreglos\ A\ y\ B\r\nA\ \=\ {2,\ 19,\ 14,\ \ \ 33,\ \ 200,\ 5,\ \ 88,\ 90}\r\nB\ \=\ \ {1,\ 5,\ 19,\ \ 25,\ \ 29}\r\nDiga\ que\ elementos\ coinciden,\ por\ ejemplo\:\r\nC\ \=\ {19,\ 5}\r\n\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

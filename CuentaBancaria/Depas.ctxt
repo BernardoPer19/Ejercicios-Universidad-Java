@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Depas
+comment1.params=id\ habitaciones\ ba\u00F1os\ direccion
+comment1.target=Depas(int,\ int,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=int\ getID()
+comment3.params=
+comment3.target=java.lang.String\ tipoDepa()
+comment4.params=
+comment4.target=void\ mostrarDataDelDepartamento()
+comment5.params=suPago
+comment5.target=void\ pagoDeDepa(double)
+numComments=6

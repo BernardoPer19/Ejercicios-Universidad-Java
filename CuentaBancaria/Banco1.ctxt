@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Banco1
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Banco1\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=capacidadAhorro\ capacidadCorriente
+comment1.target=Banco1(int,\ int)
+comment2.params=newCuentaCor
+comment2.target=void\ agregarCuentaCorr(CuentaCorriente)
+comment3.params=newCuentaAhorro
+comment3.target=void\ agregarCuentaAhorro(CuentaAhorros1)
+comment4.params=
+comment4.target=void\ mostrarCuentaCorriente()
+comment5.params=
+comment5.target=void\ mostrarCuentaAhorro()
+numComments=6

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Biblioteca
+comment0.text=\r\n\r\n
+comment1.params=capacidad
+comment1.target=Biblioteca(int)
+comment2.params=
+comment2.target=int\ numeroLibro()
+comment3.params=newBook
+comment3.target=boolean\ addBook(Libro)
+comment4.params=pos
+comment4.target=boolean\ removeBook(int)
+comment5.params=pos
+comment5.target=void\ getBook(int)
+comment6.params=pos\ changeBook\ newTitle\ newAutor\ newPages\ newYearDeparture
+comment6.target=void\ setBook(int,\ Libro,\ java.lang.String,\ java.lang.String,\ int,\ int)
+numComments=7

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Tienda
+comment0.text=\r\n-Consultar\ el\ inventario\ para\ ver\ qu\u00E9\ productos\ est\u00E1n\ disponibles.\r\n-Actualizar\ la\ cantidad\ de\ un\ producto\ cuando\ alguien\ lo\ compra\ o\ cuando\ llega\ m\u00E1s\ stock.\r\n-Actualmente,\ la\ tienda\ opera\ de\ manera\ manual,\ lo\ que\ le\ genera\ errores\ frecuentes\ y\ p\u00E9rdida\ de\ tiempo.\r\nLo\ que\ necesitas\ hacer\:\r\n\r\n-Crea\ una\ clase\ Producto\ con\ atributos\ encapsulados\:\ codigo,\ nombre,\ precio\ y\ cantidad.\r\n-Usa\ un\ constructor\ para\ inicializar\ los\ productos\ y\ m\u00E9todos\ para\ obtener\ y\ modificar\ el\ stock.\r\n-Dise\u00F1a\ una\ clase\ Tienda\ que\ gestione\ un\ array\ de\ productos.\r\n-Implementa\ m\u00E9todos\ en\ Tienda\ para\:\r\n-Agregar\ productos\ nuevos.\r\n-Listar\ todos\ los\ productos\ disponibles.\r\n-Actualizar\ el\ stock\ de\ un\ producto\ por\ su\ c\u00F3digo.\r\n\r\n
+comment1.params=capacidad
+comment1.target=Tienda(int)
+comment2.params=prod
+comment2.target=boolean\ agregarProd(Producto)
+comment3.params=
+comment3.target=void\ ListarProductos()
+numComments=4

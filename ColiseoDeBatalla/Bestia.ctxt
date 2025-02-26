@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Bestia
+comment1.params=nombre\ tipo
+comment1.target=Bestia(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=int\ getEnergia()
+comment3.params=energia
+comment3.target=void\ setEnergia(int)
+comment4.params=tipo
+comment4.target=void\ setTipo(java.lang.String)
+comment5.params=
+comment5.target=void\ descansar()
+comment6.params=gladiador
+comment6.target=void\ usarBasico(Gladiador)
+comment7.params=gladiador
+comment7.target=void\ usarUlti(Gladiador)
+numComments=8

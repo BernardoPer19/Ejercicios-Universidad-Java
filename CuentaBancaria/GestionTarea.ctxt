@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=GestionTarea
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ GestionTarea\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=capacidad
+comment1.target=GestionTarea(int)
+comment2.params=newTarea
+comment2.target=void\ agregarTarea(Tarea)
+comment3.params=prioridad
+comment3.target=void\ prioridad(java.lang.String)
+comment4.params=titulo
+comment4.target=void\ marcarTarea(java.lang.String)
+comment5.params=
+comment5.target=void\ mostrarTareas()
+numComments=6

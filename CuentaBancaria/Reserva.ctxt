@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Reserva
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Reserva\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=capacidad
+comment1.target=Reserva(int)
+comment2.params=nuevoVuelo
+comment2.target=void\ agregarVuelo(Vuelo)
+comment3.params=
+comment3.target=double\ calcularTotal()
+numComments=4

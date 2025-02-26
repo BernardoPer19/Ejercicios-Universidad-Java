@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CuentaNormal
+comment1.params=idCuenta\ numCuenta\ saldo
+comment1.target=CuentaNormal(int,\ int,\ double)
+comment2.params=monto
+comment2.target=void\ retirar(double)
+numComments=3

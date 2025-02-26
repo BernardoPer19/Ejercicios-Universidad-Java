@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Colegio
+comment1.params=
+comment1.target=Colegio()
+comment2.params=newEst
+comment2.target=java.lang.String\ addEst(Estudiante)
+comment3.params=newEst
+comment3.target=java.lang.String\ removeEst(Estudiante)
+comment4.params=newProf
+comment4.target=java.lang.String\ addProf(Profesor)
+comment5.params=newProf
+comment5.target=java.lang.String\ removeProf(Profesor)
+comment6.params=
+comment6.target=void\ MostrarProfesores()
+comment7.params=
+comment7.target=void\ MostrarEstudiantes()
+numComments=8

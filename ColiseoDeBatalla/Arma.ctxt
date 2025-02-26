@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Arma
+comment1.params=nombre\ des
+comment1.target=Arma(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ getNombre()
+comment3.params=
+comment3.target=void\ getdesc()
+comment4.params=
+comment4.target=int\ getDa\u00F1o()
+comment5.params=
+comment5.target=boolean\ fueDanado()
+numComments=6

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=VueloDeLujo
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ VueloDeLujo\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=numeroVuelo\ origen\ destino\ precio\ asientoVip
+comment1.target=VueloDeLujo(java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ java.lang.String)
+numComments=2

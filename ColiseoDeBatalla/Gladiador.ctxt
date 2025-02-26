@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Gladiador
+comment0.text=\r\n\r\n
+comment1.params=vida\ arma\ bestia
+comment1.target=Gladiador(int,\ Arma,\ Bestia)
+comment2.params=vida
+comment2.target=void\ setVida(int)
+comment3.params=
+comment3.target=void\ mostrarData()
+comment4.params=peleador
+comment4.target=void\ hacerDa\u00F1o(Gladiador)
+comment5.params=
+comment5.target=void\ entrenar()
+comment6.params=
+comment6.target=int\ getVida()
+comment7.params=nuevaBestia
+comment7.target=boolean\ a\u00F1adirBestia(Bestia)
+numComments=8

@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Calculadora
+comment1.params=figuras
+comment1.target=double\ calcularAreaTotal(Figura[])
+numComments=2

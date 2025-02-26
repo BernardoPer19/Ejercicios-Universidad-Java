@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Empleado2
+comment1.params=nombre\ dni\ direccion\ banco
+comment1.target=Empleado2(java.lang.String,\ int,\ java.lang.String,\ Banco)
+comment2.params=cliente
+comment2.target=void\ registrarCliente(Cliente)
+comment3.params=idCliente
+comment3.target=void\ removerClientePorId(int)
+comment4.params=idCliente
+comment4.target=Cliente\ buscarClientePorId(int)
+numComments=5

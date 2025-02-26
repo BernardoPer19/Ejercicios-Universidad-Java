@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Persona
+comment0.text=\r\nSus\ atributos\ son\:\ nombre,\ edad,\ DNI,\ sexo\ (H\ hombre,\ M\ mujer),\ peso\ y\ altura.\ No\ queremos\ que\ se\ accedan\ directamente\ a\ ellos.\ Piensa\ que\ modificador\ de\ acceso\ es\ el\ m\u00E1s\ adecuado,\ tambi\u00E9n\ su\ tipo.\ Si\ quieres\ a\u00F1adir\ alg\u00FAn\ atributo\ puedes\ hacerlo.\r\nPor\ defecto,\ todos\ los\ atributos\ menos\ el\ DNI\ ser\u00E1n\ valores\ por\ defecto\ seg\u00FAn\ su\ tipo\ (0\ n\u00FAmeros,\ cadena\ vac\u00EDa\ para\ String,\ etc.).\ Sexo\ sera\ hombre\ por\ defecto,\ usa\ una\ constante\ para\ ello.\r\nSe\ implantaran\ varios\ constructores\:\r\n\r\nUn\ constructor\ por\ defecto.\r\nUn\ constructor\ con\ el\ nombre,\ edad\ y\ sexo,\ el\ resto\ por\ defecto.\r\n\r\nUn\ constructor\ con\ todos\ los\ atributos\ como\ par\u00E1metro.\r\n\r\nLos\ m\u00E9todos\ que\ se\ implementaran\ son\:\r\n\r\ncalcularIMC()\:\ \ \ calculara\ si\ la\ persona\ esta\ en\ su\ peso\ ideal\ (peso\ en\ kg/(altura^2\ \ en\ m)),\ si\ esta\ f\u00F3rmula\ devuelve\ un\ valor\ menor\ que\ 20,\ la\ funci\u00F3n\ devuelve\ un\ -1,\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ si\ devuelve\ un\ n\u00FAmero\ entre\ 20\ y\ 25\ (incluidos,significa\ que\ esta\ por\ debajo\ de\ su\ peso\ ideal\ la\ funci\u00F3n\ devuelve\ un\ 0\ \ y\ si\ devuelve\ un\ valor\ mayor\ que\ 25\ significa\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ que\ tiene\ sobrepeso,\ la\ funci\u00F3n\ devuelve\ un\ 1.\ Te\ recomiendo\ que\ uses\ constantes\ para\ devolver\ estos\ valores.\r\n\r\n\r\n\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ esMayorDeEdad()\:\ indica\ si\ es\ mayor\ de\ edad,\ devuelve\ un\ booleano.\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ comprobarSexo(char\ sexo)\:\ comprueba\ que\ el\ sexo\ introducido\ es\ correcto.\ Si\ no\ es\ correcto,\ sera\ H.\ No\ sera\ visible\ al\ exterior.\r\n\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ toString()\:\ devuelve\ toda\ la\ informaci\u00F3n\ del\ objeto.\r\n\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ generaDNI()\:\ genera\ un\ n\u00FAmero\ aleatorio\ de\ 8\ cifras,\ genera\ a\ partir\ de\ este\ su\ n\u00FAmero\ su\ letra\ correspondiente.\ Este\ m\u00E9todo\ sera\ invocado\ cuando\ se\ construya\ el\ objeto.\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Puedes\ dividir\ el\ m\u00E9todo\ para\ que\ te\ sea\ m\u00E1s\ f\u00E1cil.\ No\ ser\u00E1\ visible\ al\ exterior.\ M\u00E9todos\ set\ de\ cada\ par\u00E1metro,\ excepto\ de\ DNI.\r\n
+comment1.params=name\ age\ Gen\ height\ weight
+comment1.target=Persona(java.lang.String,\ int,\ char,\ double,\ double)
+comment10.params=
+comment10.target=int\ generaDNI()
+comment2.params=
+comment2.target=double\ height()
+comment3.params=
+comment3.target=double\ weight()
+comment4.params=
+comment4.target=int\ getIMC()
+comment5.params=
+comment5.target=boolean\ ComprobarEdad()
+comment6.params=
+comment6.target=java.lang.String\ getName()
+comment7.params=
+comment7.target=int\ getAge()
+comment8.params=sexo
+comment8.target=char\ ComprobarGenero(char)
+comment9.params=
+comment9.target=void\ MostrarDetalles()
+numComments=11

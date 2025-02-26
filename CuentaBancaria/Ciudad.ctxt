@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Ciudad
+comment1.params=
+comment1.target=Ciudad()
+comment2.params=nuevoInmueble
+comment2.target=boolean\ a\u00F1adirInm(Inmuebles)
+comment3.params=pos
+comment3.target=void\ removerInm(int)
+comment4.params=
+comment4.target=void\ ordernarCasasID()
+comment5.params=
+comment5.target=void\ mostrarInmuebles()
+numComments=6

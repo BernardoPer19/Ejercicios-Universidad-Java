@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Items
+comment1.params=nom\ id
+comment1.target=Items(java.lang.String,\ int)
+comment2.params=
+comment2.target=int\ getID()
+comment3.params=
+comment3.target=java.lang.String\ getNom()
+comment4.params=
+comment4.target=java.lang.String\ getDes()
+comment5.params=
+comment5.target=void\ mostrarItem()
+numComments=6

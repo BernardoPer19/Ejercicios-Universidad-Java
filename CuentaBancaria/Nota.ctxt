@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Nota
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Nota\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=materia\ calificacion
+comment1.target=Nota(java.lang.String,\ double)
+comment2.params=
+comment2.target=java.lang.String\ getMateria()
+comment3.params=
+comment3.target=double\ getCalificacion()
+comment4.params=
+comment4.target=boolean\ aprobo()
+numComments=5
