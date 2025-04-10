@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=AutoCompletados
+comment1.params=base\ Arr
+comment1.target=int\ autos(int,\ int[])
+comment2.params=base\ Arr\ pos\ cont
+comment2.target=int\ autos(int,\ int[],\ int,\ int)
+numComments=3

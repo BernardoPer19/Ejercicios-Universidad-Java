@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=OrdenamientoBurbuja
+comment1.params=numeros
+comment1.target=java.util.ArrayList\ metodo(java.util.ArrayList)
+comment2.params=numeros\ pos
+comment2.target=java.util.ArrayList\ metodo(java.util.ArrayList,\ int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

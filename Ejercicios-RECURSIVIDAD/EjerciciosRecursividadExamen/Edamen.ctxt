@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Edamen
+comment1.params=palabra\ texto
+comment1.target=java.util.ArrayList\ Ejer1(java.lang.String,\ java.lang.String)
+comment2.params=palabra\ texto\ res\ posText\ posPal
+comment2.target=void\ Ejer1(java.lang.String,\ java.lang.String,\ java.util.ArrayList,\ int,\ int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
